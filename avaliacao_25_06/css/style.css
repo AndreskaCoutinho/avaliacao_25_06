@@ -1,0 +1,22 @@
+body, html {
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}]
+
+.imagem{
+ padding: center;
+ 
+}
+
+
+.nav-link{
+  width: 100px;
+  height: 100px;
+  background:#787e86;
+  transition: width 2s;
+  }
+  
+.nav-link:hover {
+    width: 300px;
+}
